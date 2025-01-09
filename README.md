@@ -1,6 +1,6 @@
 ## Arrhythmia Classification by Using Convolutional Neural Network with  2-D ECG Spectral Image Representation
 
-This project is full implementation of this [article](https://www.mdpi.com/2072-4292/12/10/1685) by me.\
+This project is my full implementation of this [article](https://www.mdpi.com/2072-4292/12/10/1685).\
 The dataset can be downloaded [here](https://www.kaggle.com/datasets/mondejar/mitbih-database).\
 The one-dimensional ECG time series signals are transformed into 2-D spectrograms through short-time Fourier transform and Recurrence Plot.
 
